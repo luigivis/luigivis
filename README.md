@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Yappy S.A.<br>🌱 I’m currently learning Quarkus, Spring boot, Python, Lambdas, MongoDb<br>
+🔭 I’m currently working on [Siprocal](https://siprocal.com).<br>🌱 I’m currently learning Quarkus, Spring boot, Python, Lambdas, MongoDb<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luigivismara) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@luigi_vismara) 
