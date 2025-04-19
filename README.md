@@ -3,7 +3,7 @@ I craft rock‑solid micro‑services and the cloud infra that keeps them hummin
 
 ## 💫 About Me
 - 🔭 **Current gigs**  
-  - **Siprocal** – building a lightning‑fast data‑exchange platform for telcos & brands.  
+  - **Siprocal** – My work.  
   - **DeployBlitz** – Git‑push‑to‑prod for any VPS (deploy scripts live in `.deploy-blitz/`) `open-source`.  
 - 🧪 **Learning / Experimenting**  
   Quarkus • AWS Lambdas & Step Functions • MongoDB • Grafana Tempo service‑graphs •
